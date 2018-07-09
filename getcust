@@ -1,3 +1,4 @@
 print "stock details"
 for i in range(0,4)
   print(“No: of items:”)
+#completed reshma
